@@ -1,0 +1,41 @@
+#logo img {
+    width: 50px;
+}
+
+#nonlogo .col {
+    line-height: 1;
+    height: fit-content;
+}
+
+.navbar {
+    height: 60px;
+}
+
+.navbar-nav form>input {
+    background: #424242;
+    border: 0;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+
+.body.container {
+    margin-top: 20px;
+}
+#navigation .list-group-item.active {
+  border-top-color: rgba(0, 0, 0, 0.125);
+  border-bottom-color: rgba(0, 0, 0, 0.125);
+  border-left-color: #4caf50;
+  border-left-width: 5px;
+  border-left-style: solid;
+  background-color: white;
+  color: black;
+}
+.email .b-form-group div > input {
+  margin-right: 10px;
+}
+.email .b-form-group div {
+  max-width: 400px;
+  display: flex;
+}
